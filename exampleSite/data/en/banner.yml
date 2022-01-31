@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/pipi-logo.jpeg
+  bg_image_webp: images/backgrounds/pipi-logo.webp
   bg_image: images/backgrounds/pipi-logo.jpeg
   icon: ''
   title: Welcome to PiPi
