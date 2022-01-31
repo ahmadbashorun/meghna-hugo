@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: images/backgrounds/pipi-logo.webp
   bg_image: images/backgrounds/pipi-logo.jpeg
-  icon: ''
+  icon: images/backgrounds/pipi-logo.jpeg
   title: Welcome to PiPi
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
     At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
