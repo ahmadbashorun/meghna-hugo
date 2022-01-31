@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/pipi-logo.jpg
+  bg_image_webp: images/backgrounds/pipi-logo.jpeg
+  bg_image: images/backgrounds/pipi-logo.jpeg
   icon: ''
   title: Welcome to PiPi
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
