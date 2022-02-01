@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/pipi-logo.webp
-  bg_image: images/backgrounds/pipi-logo.jpeg
+  bg_image_webp: "/images/pipi-logo.webp"
+  bg_image: "/images/pipi-logo.jpeg"
   icon: images/backgrounds/pipi-logo.jpeg
   title: PLATFORM FOR INNOVATION AND PRODUCTIVE IDEAS
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
